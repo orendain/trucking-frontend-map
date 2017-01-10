@@ -19,3 +19,4 @@ class MapModule {
 class MapComponent {
 
 }
+
